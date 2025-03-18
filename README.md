@@ -10,6 +10,6 @@ A simple ToDo app backend built with Go and Gin.
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/Go-TodoApp.git
+git clone https://github.com/Jarri-24-7/Go-TodoApp.git
 cd Go-TodoApp
 go run main.go
